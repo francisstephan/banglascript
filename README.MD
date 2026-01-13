@@ -15,20 +15,20 @@ The application is written with Elm, which allows for:
 
 We tried to use a logical transcription close to Bangla script logic:
 
+## vowels:
+We chose to stick with the classical names of vowels, which do not correspond to present day bangla phonetics : a, i, u, e, o, r', with their 'long' variants a', i', u', e' and o'.
+
+The choice between the two sets of vowels ("full" and "matra" vowels) is made automatically based on the context.
+
 ## _ prefixed characters:
 We use _ prefix only in _( to get a regular ( since we use ( for candrabindu  ँ
 
 We use two suffixes:
 - ' mainly for aspirated consonants (k' g' c' j' T' D' p' b' to get খ ঘ ছ ঝ ঠ ঢ থ ধ ফ ভ),
-but also for ঞ as n', শ as s', anusvara ং as (' and visarga ः as :'
+but also for ঞ as n', শ as s', anusvara ং as (' and visarga ः as :', and for the 'long' vowels (see above)
 - and " used for ষ : s"
 
 To use ' or " as quotation marks, insert a space before them.
-
-## vowels
-
-The choice between the two sets of vowels ("full" and "matra" vowels) is made automatically based on the context.
-
 
 ## ligatures
 
