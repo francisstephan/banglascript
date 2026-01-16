@@ -14,7 +14,7 @@ body {
 #convert {
     direction: ltr;
     text-align: leftt;
-    font-family: "Noto Sans Devanagari", sans-serif;
+    font-family: "Noto Sans Bengali", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400; /* range 100-900 */
     font-style: normal;
@@ -24,7 +24,7 @@ body {
     padding-right: 40%;
 }
 #help {
-    font-family: "Noto Sans Devanagari", sans-serif;
+    font-family: "Noto Sans Bengali", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
